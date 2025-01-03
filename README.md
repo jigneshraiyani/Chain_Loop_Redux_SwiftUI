@@ -1,2 +1,2 @@
-# Chain_Loop_Redux_SwiftUI
-Chain_Loop_Redux_SwiftUI
+# Chain_Loop_MVVM_SwiftUI
+Chain_Loop_MVVM_SwiftUI
